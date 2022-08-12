@@ -24,7 +24,7 @@ p{
 h2{
     font-weight: bold;
     font-size: 23px;
-    margin-bottom: 200px;
+    margin-bottom: 20px;
 }
 a.font-black{
     color: #000 !important;
@@ -77,11 +77,11 @@ ABOUT
     color: #000
 }
 
-/***************
+/***************************
 
 PROJECT
 
-***************/
+***************************/
 
 #project{
     margin: 60px auto;
@@ -90,4 +90,8 @@ PROJECT
 
 #project h2{
     text-align: center;
+}
+
+#project .card img{
+    width: 100%;
 }
