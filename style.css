@@ -95,3 +95,7 @@ PROJECT
 #project .card img{
     width: 100%;
 }
+
+#project .card-title{
+    font-weight: bold;
+}
