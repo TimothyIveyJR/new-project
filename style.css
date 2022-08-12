@@ -28,3 +28,29 @@ ABOUT
     text-align: center;
 }
 
+#about img{
+    border-radius: 50%;
+    width: 120px;
+    margin-bottom: 10px;
+}
+
+#about .name{
+    font-size: 19px;
+}
+
+#about .vocation{
+    font-size: 17px;
+    color: #A8A8AB;
+    margin-bottom: 10px;
+}
+
+#about .skills{
+    font-size: 14px;
+    color: #00abae
+    margin-bottom: 10px;
+}
+
+#about .email{
+    margin-top: 14px;
+    font-size: 30px;
+}
