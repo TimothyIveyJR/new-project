@@ -76,3 +76,18 @@ ABOUT
 #about .icons a{
     color: #000
 }
+
+/***************
+
+PROJECT
+
+***************/
+
+#project{
+    margin: 60px auto;
+    width:80%
+}
+
+#project h2{
+    text-align: center;
+}
